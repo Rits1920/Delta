@@ -1,0 +1,359 @@
+BODY{
+  background-color: black;
+}
+/*
+#mat11{
+  display: table-cell;
+  width: 60px;
+  cursor: pointer;
+  height: 60px;
+  border: 3px black;
+  background-color: orange;
+}
+#mat12{
+  display: table-cell;
+  width: 60px;
+  cursor: pointer;
+  height: 60px;
+  border: 3px black;
+  background-color: red;
+}
+#mat13{
+  display: table-cell;
+  width: 60px;
+  cursor: pointer;
+  height: 60px;
+  border: 3px black;
+  background-color: brown;
+}
+#mat14{
+  display: table-cell;
+  width: 60px;
+  cursor: pointer;
+  height: 60px;
+  border: 3px black;
+  background-color: white;
+}
+#mat15{
+  display: table-cell;
+  width: 60px;
+  cursor: pointer;
+  height: 60px;
+  border: 3px black;
+  background-color: red;
+}
+#mat21{
+  display: table-cell;
+  width: 60px;
+  cursor: pointer;
+  height: 60px;
+  border: 3px black;
+  background-color: blue;
+}
+#mat22{
+  display: table-cell;
+  width: 60px;
+  cursor: pointer;
+  height: 60px;
+  border: 3px black;
+  background-color: white;
+}
+#mat23{
+  display: table-cell;
+  width: 60px;
+  cursor: pointer;
+  height: 60px;
+  border: 3px black;
+  background-color: red;
+}
+#mat24{
+  display: table-cell;
+  width: 60px;
+  cursor: pointer;
+  height: 60px;
+  border: 3px black;
+  background-color: brown;
+}
+#mat25{
+  display: table-cell;
+  width: 60px;
+  cursor: pointer;
+  height: 60px;
+  border: 3px black;
+  background-color: yellow;
+}
+#mat31{
+  display: table-cell;
+  width: 60px;
+  cursor: pointer;
+  height: 60px;
+  border: 3px black;
+  background-color: orange;
+}
+#mat32{
+  display: table-cell;
+  width: 60px;
+  cursor: pointer;
+  height: 60px;
+  border: 3px black;
+  background-color: white;
+}
+#mat33{
+  display: table-cell;
+  width: 60px;
+  cursor: pointer;
+  height: 60px;
+  border: 3px black;
+  background-color: brown;
+}
+#mat34{
+  display: table-cell;
+  width: 60px;
+  cursor: pointer;
+  height: 60px;
+  border: 3px black;
+  background-color: blue;
+}
+#mat35{
+  display: table-cell;
+  width: 60px;
+  cursor: pointer;
+  height: 60px;
+  border: 3px black;
+  background-color: red;
+}
+
+#mat41{
+  display: table-cell;
+  width: 60px;
+  cursor: pointer;
+  height: 60px;
+  border: 3px black;
+  background-color: yellow;
+}
+#mat42{
+  display: table-cell;
+  width: 60px;
+  cursor: pointer;
+  height: 60px;
+  border: 3px black;
+  background-color: red;
+}
+#mat43{
+  display: table-cell;
+  width: 60px;
+  cursor: pointer;
+  height: 60px;
+  border: 3px black;
+  background-color: orange;
+}
+#mat44{
+  display: table-cell;
+  width: 60px;
+  cursor: pointer;
+  height: 60px;
+  border: 3px black;
+  background-color: blue;
+}
+#mat45{
+  display: table-cell;
+  width: 60px;
+  cursor: pointer;
+  height: 60px;
+  border: 3px black;
+  background-color: white;
+}
+
+#mat51{
+  display: table-cell;
+  width: 60px;
+  cursor: pointer;
+  height: 60px;
+  border: 3px black;
+  background-color: brown;
+}
+#mat52{
+  display: table-cell;
+  width: 60px;
+  cursor: pointer;
+  height: 60px;
+  border: 3px black;
+  background-color: blue;
+}
+#mat53{
+  display: table-cell;
+  width: 60px;
+  cursor: pointer;
+  height: 60px;
+  border: 3px black;
+  background-color: yellow;
+}
+#mat54{
+  display: table-cell;
+  width: 60px;
+  cursor: pointer;
+  height: 60px;
+  border: 3px black;
+  background-color: orange;
+}
+#mat55{
+  display: table-cell;
+  width: 60px;
+  cursor: pointer;
+  height: 60px;
+  border: 3px black;
+ 
+} */
+#mat11,#mat12,#mat13,#mat14,#mat15,
+#mat21,#mat22,#mat23,#mat24,#mat25,
+#mat31,#mat32,#mat33,#mat34,#mat35,
+#mat41,#mat42,#mat43,#mat44,#mat45,
+#mat51,#mat52,#mat53,#mat54,#mat55
+{
+  display: table-cell;
+  width: 60px;
+  cursor: pointer;
+  height: 60px;
+  border: 3px solid black;
+ 
+}
+#a11{
+  background-color: orange;
+  display: table-cell;
+  width: 40px;
+  height: 40px;
+  border: 4px solid black;
+}
+#a12{
+  background-color: blue;
+  
+  display: table-cell;
+  width: 40px;
+  height: 40px;
+  border: 4px solid black;
+}
+#a13{
+  background-color: yellow;
+  
+  display: table-cell;
+  width: 40px;
+  height: 40px;
+  border: 4px solid black;
+}
+#a21{
+  background-color: red;
+
+  display: table-cell;
+  width: 40px;
+  height: 40px;
+  border: 4px solid black;
+}
+#a22{
+  background-color: brown ;
+
+  display: table-cell;
+  width: 40px;
+  height: 40px;
+  border: 4px solid black;
+}
+#a23{
+  background-color: white;
+
+  display: table-cell;
+  width: 40px;
+  height: 40px;
+  border: 4px solid black;
+}
+#a31{
+  background-color: orange;
+
+  display: table-cell;
+  width: 40px;
+  height: 40px;
+  border: 4px solid black;
+}
+#a32{
+  background-color: yellow;
+ 
+  display: table-cell;
+  width: 40px;
+  height: 40px;
+  border: 4px solid black;
+}
+#a33{
+  background-color: blue;
+ 
+  display: table-cell;
+  width: 40px;
+  height: 40px;
+  border: 4px solid black;
+} 
+#a11,#a12,#a13,#a21,#a22,#a23,#a31,#a32,#a33
+{
+ display: table-cell;
+ width: 40px;
+ height: 40px;
+ border: 4px solid black;
+  }
+  .boxs
+  { position :absolute;
+    background-color: green;
+    border-radius: 8px;
+    font-size:10px;
+    top: 30%;
+    left: 30%;
+    text-align: center;
+    
+    
+   }
+
+.box
+ { position :absolute;
+   background-color: green;
+   border-radius: 8px;
+   top: 30%;
+   right: 30%;
+   font-size:10px;
+   font-weight:bold;
+   text-align: center;
+   
+  
+  }
+
+
+
+
+
+
+
+#onwinning
+ { position :absolute;
+   display:none;
+   top: 12%;
+   left:20%; 
+   width: 50%;
+  height: 60%;
+  font-size:10PX;
+  
+  color:black;
+  text-align: center;
+
+  border-radius: 20px; 
+  background: white;
+}
+
+ #button1 {
+
+  position: absolute;
+  bottom: 30px;
+  background-color: green; 
+  left: 35%;
+  border: 4px solid black;
+  color: beige;
+  text-align: center;
+
+  font-size: 23px;
+  border-radius: 8px;
+  cursor:pointer;
+}
+        
